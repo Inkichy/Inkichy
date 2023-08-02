@@ -1,1 +1,1 @@
-I'm @Inkichy and i like Frontend :)
+I'm @Inkichy :)
